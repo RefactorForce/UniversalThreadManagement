@@ -17,7 +17,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\SmartThreadPool\UniversalThreadManagement.csproj" />
+    <ProjectReference Include="..\UniversalThreadManagement\UniversalThreadManagement.csproj" />
   </ItemGroup>
 
 </Project>
