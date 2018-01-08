@@ -1,0 +1,31 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniversalThreadManagement", "UniversalThreadManagement\UniversalThreadManagement.csproj", "{3C7A5E91-567B-4953-A286-51BF13740732}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniversalThreadManagement.Test", "UniversalThreadManagement.Test\UniversalThreadManagement.Test.csproj", "{2E61C5CD-81E3-407D-81EA-90B9B88A4EC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C7A5E91-567B-4953-A286-51BF13740732}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C7A5E91-567B-4953-A286-51BF13740732}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C7A5E91-567B-4953-A286-51BF13740732}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C7A5E91-567B-4953-A286-51BF13740732}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E61C5CD-81E3-407D-81EA-90B9B88A4EC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E61C5CD-81E3-407D-81EA-90B9B88A4EC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E61C5CD-81E3-407D-81EA-90B9B88A4EC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E61C5CD-81E3-407D-81EA-90B9B88A4EC0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9CC7F717-3DDF-429C-A86A-75924BACDE42}
+	EndGlobalSection
+EndGlobal
